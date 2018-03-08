@@ -1,0 +1,9 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Sunshine WatchFace</string>
+    <string name="my_digital_name">Sunshine WatchFace</string>
+
+    <!-- Temperature format -->
+    <string name="format_temperature">
+        <xliff:g id="temp">%1.0f</xliff:g>\u00B0
+    </string>
+</resources>

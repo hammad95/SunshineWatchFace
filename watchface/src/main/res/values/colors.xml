@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sunshine_primary">#03A9F4</color>  <!--The primary phone app color-->
+    <color name="white">#ffffff</color>
+
+    <color name="background">@color/sunshine_primary</color>
+    <color name="digital_text">@color/white</color>
+    <color name="secondary_text">#727272</color>
+</resources>
